@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class BizCard extends StatelessWidget {
-  const BizCard({Key? key}) : super(key: key);
+  const BizCard({super.key});
 
   @override
   Widget build(BuildContext context) {
